@@ -32,7 +32,7 @@ export const ProductList = [
   {
     id: 3,
     name: "Headphone",
-    description: "An apple mobile which is nothing like apple",
+    description: "An apple mobile which is nothing like applee",
     price: 659,
     discountPercentage: 12.96,
     rating: 4.69,
