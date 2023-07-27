@@ -44,7 +44,7 @@ export const ProductList = [
   {
     id: 4,
     name: "Airpod",
-    description: "An apple mobile which is nothing like apple",
+    description: "An headphone custom by BillGate",
     price: 434,
     discountPercentage: 12.96,
     rating: 4.69,
